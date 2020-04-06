@@ -1,7 +1,7 @@
 {
-  "name": "react-flip-card",
+  "name": "@alkeshdesai001/react-card-flip",
   "version": "0.0.1",
-  "description": "React Crad component with Flip effect and dynamic Styling",
+  "description": "React Card component with Flip effect and dynamic Styling",
   "main": "index.js",
   "scripts": {
     "prePublish": "webpack -p --progress --colors --config webpack.config.publish.js",
